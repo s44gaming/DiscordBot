@@ -8,3 +8,6 @@ Code edit software (recommended Visual Code)<br>
 
 
 https://s44media.com
+
+
+bot token file config.json
