@@ -1,10 +1,7 @@
 # discordbot
  
+you need the following things
 
-You need the discord Developer Portal where you can get your own token for the discord bot
-
-
-You need the following things installed on your machine
-
+Discord Developer Portal
 Node js
-code edit software (recommended Visual code)
+Code edit software (recommended Visual Code)
