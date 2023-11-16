@@ -1,6 +1,6 @@
 # discordbot
  
-Manual
+
 You need the discord Developer Portal where you can get your own token for the discord bot
 
 
